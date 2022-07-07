@@ -1,2 +1,3 @@
 # OSSU courses
- Projects done going through OSSU curriculum
+
+Final projects done going through OSSU curriculum
